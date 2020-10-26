@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MonsterDeck/static/css/main.d741206b.chunk.css",
+    "main.js": "/MonsterDeck/static/js/main.0c7e0afe.chunk.js",
+    "main.js.map": "/MonsterDeck/static/js/main.0c7e0afe.chunk.js.map",
+    "runtime-main.js": "/MonsterDeck/static/js/runtime-main.18a8d186.js",
+    "runtime-main.js.map": "/MonsterDeck/static/js/runtime-main.18a8d186.js.map",
+    "static/js/2.f32fe1d1.chunk.js": "/MonsterDeck/static/js/2.f32fe1d1.chunk.js",
+    "static/js/2.f32fe1d1.chunk.js.map": "/MonsterDeck/static/js/2.f32fe1d1.chunk.js.map",
+    "index.html": "/MonsterDeck/index.html",
+    "static/css/main.d741206b.chunk.css.map": "/MonsterDeck/static/css/main.d741206b.chunk.css.map",
+    "static/js/2.f32fe1d1.chunk.js.LICENSE.txt": "/MonsterDeck/static/js/2.f32fe1d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18a8d186.js",
+    "static/js/2.f32fe1d1.chunk.js",
+    "static/css/main.d741206b.chunk.css",
+    "static/js/main.0c7e0afe.chunk.js"
+  ]
+}
